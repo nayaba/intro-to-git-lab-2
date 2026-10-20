@@ -15,3 +15,6 @@ ANSWER: Copies the repo from github.com to my computer
 3. Once you've cloned the repo, how do you open it in VS Code?
 
 ANSWER:  code .
+
+
+I'm adding some things just to show changes.
